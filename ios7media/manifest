@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: ios7media
+author: Li Chong
+license: MIT
+copyright: JPTECH.co.jp
+
+
+# these should not be edited
+name: ios7media
+moduleid: jptech.ios7media
+guid: 4c47da52-10e2-49d8-aa44-49778876f9e6
+platform: iphone
+minsdk: 3.1.3.GA
